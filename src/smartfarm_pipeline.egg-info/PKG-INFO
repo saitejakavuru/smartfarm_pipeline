@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: smartfarm_pipeline
+Version: 0.0.0
+Summary: A small python package for smartfarm app
+Home-page: https://github.com/saitejakavuru/smartfarm_pipeline
+Author: saitejakavuru
+Author-email: workbox.teja@gmail.com
+Project-URL: Bug Tracker, https://github.com/saitejakavuru/smartfarm_pipeline/issues
+
+# smartfarm_pipeline
+Smart farm pipeline code.
